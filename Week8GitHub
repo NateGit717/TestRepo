@@ -1,8 +1,0 @@
-In week 1 I was aquanted with Rmarkdown notebooks for the first time and introduced to the basic predictive modeling workflow.
-In week 2 I was introduce to the summary() command and I learned about the function of predictors in a model as well as the concept of predictors having thier own relationships to eachother.
-In week 3 I learned how to utilize linear regression models and to determine whether or not the predictors of a linear regression had a significant effect on the response.
-In week 4 I learned how to utilize logistics regression models and to use a confusion matrix to evaluate the model.
-In week 5 I learned the differences between a simple linear regression and a general linear model. Additionally, I learned about some of the types of regression (poison, gamma) used in GLMs. 
-In week 6 I learned to use decision tree and random forest models.
-In week 7 I learned to use a k-means cluster model and to find the optimal amount of clusters.
-In week 8 I started learning to use GitHub and how to use the presentation functions in R Markdown. 
